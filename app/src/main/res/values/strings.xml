@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laba2</string>
+
+<string name="hint_editText">Введите имя</string>
+<string name="button_send">SEND</string>
+<string name="student_info">ФИО: Белогруд О.А., Группа: БОМ41ПРИ</string>
+</resources>
